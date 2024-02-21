@@ -3,10 +3,8 @@
  <channel>
  <title>Cine Dragon (20/02/2024):</title>
  <item>
- <title>Tv ao vivo Atualizado servidor TV 4.alguns canais do servidor 2 podem estar offline</title>
+ <title>Tv ao vivo Atualizado servidor TV 4.alguns canais do servidor 2 podem estar offline.</title>
  </item>
- </channel>
- <channel>
  <title>Ultimos Filmes Adicionados:</title>
  <item>
  <title>Filmes 2024 Acervo R.O => Pobres criaturas,Lights out,Wintertide,A torre do inferno,Navalny</title>
