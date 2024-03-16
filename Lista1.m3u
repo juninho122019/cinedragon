@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg=http://pfsv.io:80/xmltv.php?username=pricila13&password=pricila13
 #EXTINF:-1 tvg-id="BR - Band Bahia" tvg-name="Band Bahia HD" tvg-logo="http://p6.vc/VVI" group-title="Canais | Abertos",Band Bahia HD
 http://pfsv.io:80/pricila13/pricila13/113586.m3u8
 #EXTINF:-1 tvg-id="BR - Band Campinas" tvg-name="Band Campinas HD" tvg-logo="http://p6.vc/VVJ" group-title="Canais | Abertos",Band Campinas HD
