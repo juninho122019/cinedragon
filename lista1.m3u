@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg=http://http://195.128.248.216:8080/xmltv.php?username=xicusvu1&password=o9qoez2q
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD MAX²" tvg-logo="http://7vnx.xyz/logos/bandfhd.png" group-title="CANAIS | BAND",BAND SP FHD MAX²
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]Cine Dragon PVR[/COLOR] [COLOR blue]TV[/COLOR]&maxbitrate=0&buffer=2116&url=http://195.128.248.216:8080/live/xicusvu1/o9qoez2q/18618.m3u8|User-Agent=FooBar/1.2.3
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP FHD¹" tvg-logo="http://7vnx.xyz/logos/bandfhd.png" group-title="CANAIS | BAND",BAND SP FHD¹
